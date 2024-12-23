@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: CS Handbook - Isaac Yauk
+
+# This item is the nav bar along the top of the page.
+nav:
+  - Home: index.md
+  - About: about.md
+
+# This is the theme the site uses.
+theme: dracula
