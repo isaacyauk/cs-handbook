@@ -1,5 +1,6 @@
 # Follow the quick tutorial here:
 #     https://www.mkdocs.org/getting-started/#creating-a-new-project
+#     Use "mkdocs serve" to host locally.
 
 # This is the name displayed name on the header
 site_name: CS Handbook - Isaac Yauk
