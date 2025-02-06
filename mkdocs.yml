@@ -8,7 +8,8 @@ site_name: CS Handbook - Isaac Yauk
 # This item is the nav bar along the top of the page.
 nav:
   - Home: index.md
-  - About: about.md
+  - Docker: docker.md
+  - GraphQL: graphql.md
 
 # This is the theme the site uses. Find more here: https://github.com/mkdocs/catalog#-theming
 # Here are my favorites: "material" (this one is clean and simple/standard) and "dracula" (this one is easy on the eyes)
