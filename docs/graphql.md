@@ -1,4 +1,4 @@
-## Overview
+## Overview 
 GraphQL is a query language for APIs. In essence, it allows your front end apps to talk to your backend apps and consistently request data from your frontend to your backend in a very "surgical" manner and thus avoiding large chunks of database objects.
 
 Think of it like if your frontend wanted to request a sandwich from your backend. If you have GraphQL acting as the "middleman" between the two, you can request the specific ingredients of a sandwich as pictured below (credit: [Fireship.io](https://fireship.io)):
